@@ -1,0 +1,23 @@
+{
+  "name": "ckiumich",
+  "description": "Website for the Circle K club at the University of Michigan",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micirclek/portal"
+  },
+  "dependencies": {
+    "autoprefixer-brunch": "^1.8.3",
+    "brunch": "^1.7.14",
+    "clean-css-brunch": "^1.7.1",
+    "coffee-script": "^1.7.1",
+    "coffee-script-brunch": "^1.8.0",
+    "css-brunch": "^1.7.0",
+    "handlebars-brunch": "^1.7.8",
+    "javascript-brunch": "^1.7.1",
+    "jsenv-brunch": "^1.4.2",
+    "less-brunch": "^1.7.2",
+    "uglify-js-brunch": "^1.7.7"
+  }
+}
